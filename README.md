@@ -1,2 +1,2 @@
-# Idraria-smp-site
+# IdrariaSMP 
 Idraria SMP
